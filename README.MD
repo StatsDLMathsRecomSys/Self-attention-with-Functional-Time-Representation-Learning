@@ -12,6 +12,9 @@ Sequential modelling with self-attention has achieved cutting edge performances 
 ![illustration](architect.png?raw=true "workflow visualization")
 An illustration of a general architecture of the proposed approach. Note that we have applied different changes to the general structure on each dataset we experimented on to be consistent with the baselines. The general architecture can be easily recovered from the implementations.
 
+### Extension to temporal graphs
+In our [Inductive Representation Learning on Temporal Graphs (ICLR 2020)](https://openreview.net/pdf?id=rJeW1yHYwH), we extend the methodologies proposed in the paper to temporal graph setting. Click the [link](https://github.com/StatsDLMathsRecomSys/Inductive-representation-learning-on-temporal-graphs) to the GitHub repo.
+
 ### Datasets
 Data is in the folder ``input_data``. 
 * MoviesLens-1M: ``ml-1m``
