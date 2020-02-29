@@ -17,7 +17,7 @@ These methods are evaluated on real-world datasets under various continuous-time
 An illustration of a general architecture of the proposed approach. Note that we have applied different changes to the general structure on each dataset we experimented on to be consistent with the baselines. The general architecture can be easily recovered from the implementations.
 
 ### Extension to temporal graphs
-In our [Inductive Representation Learning on Temporal Graphs (ICLR 2020)](https://openreview.net/pdf?id=rJeW1yHYwH) paper, we extend the methodologies proposed in the paper to temporal graph setting. Click the [link](https://github.com/StatsDLMathsRecomSys/Inductive-representation-learning-on-temporal-graphs) to the GitHub repo.
+In our [Inductive Representation Learning on Temporal Graphs (ICLR 2020)](https://openreview.net/pdf?id=rJeW1yHYwH) paper, we extend the methodologies proposed in the paper to the temporal graph setting. The implementation is also avaiable at the [github page](https://github.com/StatsDLMathsRecomSys/Inductive-representation-learning-on-temporal-graphs).
 
 ### Datasets
 Data is in the folder ``input_data``. 
