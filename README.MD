@@ -1,7 +1,7 @@
 # Self-attention with Functional Time Representation Learning (NeurIPS 2019)
 <!--#### -->
 
-#### Authors: Da Xu, Chuanwei Ruan, Sushant Kumar, Evren Korpeoglu,  Kannan Achan
+#### Authors: Da Xu*, Chuanwei Ruan*, Sushant Kumar, Evren Korpeoglu,  Kannan Achan
 #### Please contact Da.Xu@walmartlabs.com or Chuanwei.Ruan@walmartlabs.com for questions.
 
 #### Full paper: https://arxiv.org/abs/1911.12864
