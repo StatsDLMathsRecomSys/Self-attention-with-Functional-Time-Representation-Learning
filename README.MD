@@ -6,6 +6,9 @@
 
 #### Full paper: https://arxiv.org/abs/1911.12864
 
+### Abstract 
+Sequential modelling with self-attention has achieved cutting edge performances in natural language processing. With advantages in model flexibility, computation complexity and interpretability, self-attention is gradually becoming a key component in event sequence models. However, like most other sequence models, self-attention does not account for the time span between events and thus captures sequential signals rather than temporal patterns. Without relying on recurrent network structures, self-attention recognizes event orderings via positional encoding. To bridge the gap between modelling time-independent and time-dependent event sequence, we introduce a functional feature map that embeds time span into high-dimensional spaces. By constructing the associated translation-invariant time kernel function, we reveal the functional forms of the feature map under classic functional function analysis results, namely Bochner's Theorem and Mercer's Theorem. We propose several models to learn the functional time representation and the interactions with event representation. These methods are evaluated on real-world datasets under various continuous-time event sequence prediction tasks. The experiments reveal that the proposed methods compare favorably to baseline models while also capturing useful time-event interactions.
+
 ![illustration](architect.png?raw=true "workflow visualization")
 An illustration of a general architecture of the proposed approach. Note that we have applied different changes to the general structure on each dataset we experimented on to be consistent with the baselines. The general architecture can be easily recovered from the implementations.
 
