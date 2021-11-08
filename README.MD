@@ -6,6 +6,12 @@
 
 #### Full paper: https://arxiv.org/abs/1911.12864
 
+#### Relevant work on applications and more thorough theoretical investigations: 
+<ul>
+  <li> <b>Inductive Representation Learning on Temporal Graphs, ICLR 2020</b> ([Link](https://arxiv.org/abs/2002.07962))
+  <li> <b>A Temporal Kernel Approach for Deep Learning With Continuous-time Information, ICLR 2021</b> ([Link](https://arxiv.org/abs/2103.15213))
+</ul>
+
 ### Introduction 
 Sequential modelling with self-attention has achieved cutting edge performances in natural language processing. However, like most other sequence models, self-attention does not account for the time span between events and thus captures sequential signals rather than temporal patterns. 
 
