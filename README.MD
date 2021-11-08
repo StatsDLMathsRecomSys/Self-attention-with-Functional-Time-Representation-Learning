@@ -8,8 +8,8 @@
 
 #### Relevant work on applications and more thorough theoretical investigations: 
 <ul>
-  <li> <b>Inductive Representation Learning on Temporal Graphs, ICLR 2020</b> ([Link](https://arxiv.org/abs/2002.07962))
-  <li> <b>A Temporal Kernel Approach for Deep Learning With Continuous-time Information, ICLR 2021</b> ([Link](https://arxiv.org/abs/2103.15213))
+  <li> <b>Inductive Representation Learning on Temporal Graphs, ICLR 2020</b> (https://arxiv.org/abs/2002.07962)
+  <li> <b>A Temporal Kernel Approach for Deep Learning With Continuous-time Information, ICLR 2021</b> (https://arxiv.org/abs/2103.15213)
 </ul>
 
 ### Introduction 
