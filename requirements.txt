@@ -1,6 +1,6 @@
 numpy==1.16.4
 pandas==0.25.0
-tensorflow==1.14.0
+tensorflow==2.11.1
 tensorflow-probability==0.7.0
 tqdm==4.33.0
 
